@@ -91,9 +91,8 @@
              -> 피사체 인식에 많이 쓰임
          - 재귀 신경망(recursive neural network)
              -> 텍스트나 음성 data에 많이 쓰임
-         
-      *  Pre-Training
-          layer가 깊어질수록 failure of gradient의 확률이 높아지기 때문에, 사전학습을 진행.
+      * Pre-Training
+         layer가 깊어질수록 failure of gradient의 확률이 높아지기 때문에, 사전학습을 진행.
           자기 자신을 재현하여 정답 data로 만들어 학습하는 방법 (AE)
            - Auto Encoder (AE), Restricted Boltzman Machine (RBM)
   
