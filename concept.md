@@ -36,7 +36,7 @@
 
  (사진 출처 : https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5_%EC%8B%A0%EA%B2%BD%EB%A7%9D)
  
-![neuron model](./img/neuron_model.png)
+![neuron model](./img/neuron_model.jpeg)
  (사진 출처 : http://cs231n.github.io/neural-networks-1/)
  
     레이어의 종류는 input, hidden, output 이고  
@@ -69,7 +69,7 @@
   이렇게 오차가 낮은 지점을 찾아가는 경사하강법(좌/수치미분법)에서, 현재 위치에서의 오차함수를 미분한다.
   하지만 학습 계수 값이 너무 작거나 크면 (일반적인 기준 0.001 ~0.1) 학습에 오랜 시간이 걸리기도 함.
   
-  ![optimim](./img/optimul.png)
+  ![optimim](./img/optimul.jpg)
   + 학습하는 방법은 배치 학습, 미니배치 학습이 있다. 배치 학습은 가중치를 한번 업데이트를 할 때 모든 데이터를 사용하고, 미니배치 학습은 데이터를 여러갈래 나누어 한갈래씩 사용해 가중치를 업데이트한다. 전자의 경우 국소 최적해에 빠지는 경우가 많기 때문에 대부분 미니배치학습을 이용한다. (확률적 경사 하강법)
  
  
