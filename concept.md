@@ -32,7 +32,7 @@
  ## Neural Network
 
 
-![neural_network](./Users/a1/Documents/GitHub/DAisyNim/deepLearning/img/neural_network.png)
+![neural_network](./img/neural_network.png)
 
  (사진 출처 : https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5_%EC%8B%A0%EA%B2%BD%EB%A7%9D)
  
