@@ -36,7 +36,7 @@
 
  (사진 출처 : https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5_%EC%8B%A0%EA%B2%BD%EB%A7%9D)
  
-![neural network](./img/neuron_model.png)
+![neuron model](./img/neuron_model.png)
  (사진 출처 : http://cs231n.github.io/neural-networks-1/)
  
     레이어의 종류는 input, hidden, output 이고  
