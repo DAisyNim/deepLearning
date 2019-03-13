@@ -80,10 +80,10 @@
  ### 종류
  
  ####  artificial neural network, ANN
-    - deep learning의 기반이 되는 기술로, 인간 뇌 신경 세포를 모방해 만든 수학적 모델.
+ deep learning의 기반이 되는 기술로, 인간 뇌 신경 세포를 모방해 만든 수학적 모델.
  ####  deep neural network, DNN
  기존 신경망보다 더 많은 hidden layer를 갖는다.
- 이미지 인식(MNIST, ILSVRC), 음성 인식(Baidu Deep Speech), 자동 번역(MNT), 사물검출(R-CNN), 이미지 생성(CDGAN), 자율주행(Segnet), 작곡(Kulita) 등등..
+    - 이미지 인식(MNIST, ILSVRC), 음성 인식(Baidu Deep Speech), 자동 번역(MNT), 사물검출(R-CNN), 이미지 생성(CDGAN), 자율주행(Segnet), 작곡(Kulita) 등등..
      * 종류
          - 모든 node가 결합한 전결합 신경망(Fully-connected Neural Network, FNN)
              -> 딥러닝의 기본적인 형태
